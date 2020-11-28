@@ -1,7 +1,6 @@
 # adryd
 
-Software developer, designer. I dabble in a lot of things.  
-"silly popsicle".
+silly popsicle
 
 ### What I do
 
